@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: yellow;
+}
+
+body {
+    background-color: pink;
+    background-image: url("https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2554.jpg?semt=ais_user_personalization&w=740&q=80");
+    background-size: 50px;
+}
+
+img {
+    border: 20px dashed brown;
+}
